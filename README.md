@@ -53,7 +53,7 @@ DELETE- curl -X DELETE http://localhost:3000/api/todos/1
 When it works it should get this page 
 ![image](https://github.com/user-attachments/assets/682e3680-8137-4b82-9fe9-b97e57e0705e)
 
-Browser Link - https://dho510-3000.bytexl.dev
+
 
 
 Happy coding!
